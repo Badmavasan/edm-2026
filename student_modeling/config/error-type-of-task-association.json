@@ -1,0 +1,318 @@
+[
+  {
+    "error_tag": "F_CALL_ARC_ERROR",
+    "task_code": "FO_4.1.3.1"
+  },
+  {
+    "error_tag": "F_CALL_AVANCER_ERROR",
+    "task_code": "FO_4.1.3.1"
+  },
+  {
+    "error_tag": "F_CALL_BAS_ERROR",
+    "task_code": "FO_4.1.2.1"
+  },
+  {
+    "error_tag": "F_CALL_COULEUR_ERROR",
+    "task_code": "PR_1.2.1"
+  },
+  {
+    "error_tag": "F_CALL_COULEUR_ERROR",
+    "task_code": "FO_4.1.3.1"
+  },
+  {
+    "error_tag": "F_CALL_DROITE_ERROR",
+    "task_code": "FO_4.1.2.1"
+  },
+  {
+    "error_tag": "F_CALL_GAUCHE_ERROR",
+    "task_code": "FO_4.1.2.1"
+  },
+  {
+    "error_tag": "F_CALL_HAUT_ERROR",
+    "task_code": "FO_4.1.2.1"
+  },
+  {
+    "error_tag": "F_CALL_INCORRECT_POSITION_ARC",
+    "task_code": "AL_1.1.1.4.2"
+  },
+  {
+    "error_tag": "F_CALL_INCORRECT_POSITION_AVANCER",
+    "task_code": "AL_1.1.1.4.2"
+  },
+  {
+    "error_tag": "F_CALL_INCORRECT_POSITION_BAS",
+    "task_code": "AL_1.1.1.4.2"
+  },
+  {
+    "error_tag": "F_CALL_INCORRECT_POSITION_DROITE",
+    "task_code": "AL_1.1.1.4.2"
+  },
+  {
+    "error_tag": "F_CALL_INCORRECT_POSITION_GAUCHE",
+    "task_code": "AL_1.1.1.4.2"
+  },
+  {
+    "error_tag": "F_CALL_INCORRECT_POSITION_HAUT",
+    "task_code": "AL_1.1.1.4.2"
+  },
+  {
+    "error_tag": "F_CALL_INCORRECT_POSITION_LEVER",
+    "task_code": "AL_1.1.1.4.2"
+  },
+  {
+    "error_tag": "F_CALL_INCORRECT_POSITION_POSER",
+    "task_code": "AL_1.1.1.4.2"
+  },
+  {
+    "error_tag": "F_CALL_INCORRECT_POSITION_PRINT",
+    "task_code": "AL_1.1.1.4.2"
+  },
+  {
+    "error_tag": "F_CALL_INCORRECT_POSITION_TOURNER",
+    "task_code": "AL_1.1.1.4.2"
+  },
+  {
+    "error_tag": "F_CALL_MISSING_ARC",
+    "task_code": "AL_1.1.1.2"
+  },
+  {
+    "error_tag": "F_CALL_MISSING_ARC",
+    "task_code": "FO_4.1.3"
+  },
+  {
+    "error_tag": "F_CALL_MISSING_AVANCER",
+    "task_code": "AL_1.1.1.2"
+  },
+  {
+    "error_tag": "F_CALL_MISSING_AVANCER",
+    "task_code": "FO_4.1.3"
+  },
+  {
+    "error_tag": "F_CALL_MISSING_BAS",
+    "task_code": "AL_1.1.1.2"
+  },
+  {
+    "error_tag": "F_CALL_MISSING_BAS",
+    "task_code": "FO_4.1.2"
+  },
+  {
+    "error_tag": "F_CALL_MISSING_COULEUR",
+    "task_code": "AL_1.1.1.2"
+  },
+  {
+    "error_tag": "F_CALL_MISSING_COULEUR",
+    "task_code": "PR_1.2.1"
+  },
+  {
+    "error_tag": "F_CALL_MISSING_COULEUR",
+    "task_code": "FO_4.1.3"
+  },
+  {
+    "error_tag": "F_CALL_MISSING_DROITE",
+    "task_code": "AL_1.1.1.2"
+  },
+  {
+    "error_tag": "F_CALL_MISSING_DROITE",
+    "task_code": "FO_4.1.2"
+  },
+  {
+    "error_tag": "F_CALL_MISSING_GAUCHE",
+    "task_code": "AL_1.1.1.2"
+  },
+  {
+    "error_tag": "F_CALL_MISSING_GAUCHE",
+    "task_code": "FO_4.1.2"
+  },
+  {
+    "error_tag": "F_CALL_MISSING_HAUT",
+    "task_code": "AL_1.1.1.2"
+  },
+  {
+    "error_tag": "F_CALL_MISSING_HAUT",
+    "task_code": "FO_4.1.2"
+  },
+  {
+    "error_tag": "F_CALL_MISSING_LEVER",
+    "task_code": "AL_1.1.1.2"
+  },
+  {
+    "error_tag": "F_CALL_MISSING_LEVER",
+    "task_code": "FO_4.1.3"
+  },
+  {
+    "error_tag": "F_CALL_MISSING_POSER",
+    "task_code": "AL_1.1.1.2"
+  },
+  {
+    "error_tag": "F_CALL_MISSING_POSER",
+    "task_code": "FO_4.1.3"
+  },
+  {
+    "error_tag": "F_CALL_MISSING_PRINT",
+    "task_code": "AL_1.1.1.2"
+  },
+  {
+    "error_tag": "F_CALL_MISSING_PRINT",
+    "task_code": "FO_4.1.1"
+  },
+  {
+    "error_tag": "F_CALL_MISSING_TOURNER",
+    "task_code": "AL_1.1.1.2"
+  },
+  {
+    "error_tag": "F_CALL_MISSING_TOURNER",
+    "task_code": "FO_4.1.3"
+  },
+  {
+    "error_tag": "F_CALL_PRINT_ERROR_ARG",
+    "task_code": "PR_1.2.1"
+  },
+  {
+    "error_tag": "F_CALL_PRINT_ERROR_ARG",
+    "task_code": "FO_4.1.1.1"
+  },
+  {
+    "error_tag": "F_CALL_TOURNER_ERROR",
+    "task_code": "FO_4.1.3.1"
+  },
+  {
+    "error_tag": "F_CALL_UNNECESSARY_ARC",
+    "task_code": "AL_1.1.1.2"
+  },
+  {
+    "error_tag": "F_CALL_UNNECESSARY_ARC",
+    "task_code": "FO_4.1.3"
+  },
+  {
+    "error_tag": "F_CALL_UNNECESSARY_AVANCER",
+    "task_code": "AL_1.1.1.2"
+  },
+  {
+    "error_tag": "F_CALL_UNNECESSARY_AVANCER",
+    "task_code": "FO_4.1.3"
+  },
+  {
+    "error_tag": "F_CALL_UNNECESSARY_BAS",
+    "task_code": "AL_1.1.1.2"
+  },
+  {
+    "error_tag": "F_CALL_UNNECESSARY_BAS",
+    "task_code": "FO_4.1.2"
+  },
+  {
+    "error_tag": "F_CALL_UNNECESSARY_COULEUR",
+    "task_code": "AL_1.1.1.2"
+  },
+  {
+    "error_tag": "F_CALL_UNNECESSARY_COULEUR",
+    "task_code": "PR_1.2.1"
+  },
+  {
+    "error_tag": "F_CALL_UNNECESSARY_COULEUR",
+    "task_code": "FO_4.1.3"
+  },
+  {
+    "error_tag": "F_CALL_UNNECESSARY_DROITE",
+    "task_code": "AL_1.1.1.2"
+  },
+  {
+    "error_tag": "F_CALL_UNNECESSARY_DROITE",
+    "task_code": "FO_4.1.2"
+  },
+  {
+    "error_tag": "F_CALL_UNNECESSARY_GAUCHE",
+    "task_code": "AL_1.1.1.2"
+  },
+  {
+    "error_tag": "F_CALL_UNNECESSARY_GAUCHE",
+    "task_code": "FO_4.1.2"
+  },
+  {
+    "error_tag": "F_CALL_UNNECESSARY_HAUT",
+    "task_code": "AL_1.1.1.2"
+  },
+  {
+    "error_tag": "F_CALL_UNNECESSARY_HAUT",
+    "task_code": "FO_4.1.2"
+  },
+  {
+    "error_tag": "F_CALL_UNNECESSARY_LEVER",
+    "task_code": "AL_1.1.1.2"
+  },
+  {
+    "error_tag": "F_CALL_UNNECESSARY_LEVER",
+    "task_code": "FO_4.1.3"
+  },
+  {
+    "error_tag": "F_CALL_UNNECESSARY_POSER",
+    "task_code": "AL_1.1.1.2"
+  },
+  {
+    "error_tag": "F_CALL_UNNECESSARY_POSER",
+    "task_code": "FO_4.1.3"
+  },
+  {
+    "error_tag": "F_CALL_UNNECESSARY_PRINT",
+    "task_code": "AL_1.1.1.2"
+  },
+  {
+    "error_tag": "F_CALL_UNNECESSARY_PRINT",
+    "task_code": "FO_4.1.1"
+  },
+  {
+    "error_tag": "F_CALL_UNNECESSARY_TOURNER",
+    "task_code": "AL_1.1.1.2"
+  },
+  {
+    "error_tag": "F_CALL_UNNECESSARY_TOURNER",
+    "task_code": "FO_4.1.3"
+  },
+  {
+    "error_tag": "LO_BODY_ERROR",
+    "task_code": "AL_1.1.1.2"
+  },
+  {
+    "error_tag": "LO_BODY_ERROR",
+    "task_code": "BO_1.1.1.1.3"
+  },
+  {
+    "error_tag": "LO_BODY_MISPLACED",
+    "task_code": "AL_1.1.1.4.2"
+  },
+  {
+    "error_tag": "LO_BODY_MISPLACED",
+    "task_code": "BO_1.1.1.1.3"
+  },
+  {
+    "error_tag": "LO_BODY_MISSING_NOT_PRESENT_ANYWHERE",
+    "task_code": "AL_1.1.1.2"
+  },
+  {
+    "error_tag": "LO_BODY_MISSING_NOT_PRESENT_ANYWHERE",
+    "task_code": "BO_1.1.1.1.3"
+  },
+  {
+    "error_tag": "LO_FOR_MISPLACED",
+    "task_code": "AL_1.1.1.4.2"
+  },
+  {
+    "error_tag": "LO_FOR_MISSING",
+    "task_code": "AL_1.1.1.2"
+  },
+  {
+    "error_tag": "LO_FOR_MISSING",
+    "task_code": "BO_1.1.1.1"
+  },
+  {
+    "error_tag": "LO_FOR_NUMBER_ITERATION_ERROR",
+    "task_code": "BO_1.1.1.1.2"
+  },
+  {
+    "error_tag": "LO_FOR_NUMBER_ITERATION_ERROR_UNDER2",
+    "task_code": "BO_1.1.1.1.2"
+  },
+  {
+    "error_tag": "LO_FOR_UNNECESSARY",
+    "task_code": "AL_1.1.1.2"
+  }
+]

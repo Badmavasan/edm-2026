@@ -1,0 +1,27 @@
+{
+  "level1": [
+    "avancer()\ndroite()\navancer()\ngauche()\navancer()\ndroite()\nfor _ in range(16):\n    avancer()\nouvrir()"
+  ],
+  "level2": [
+    "for _ in range(6):\n    sauter()\n    avancer()\navancer()\ngauche()\navancer()\navancer()\nfor _ in range(9):\n    coup()\n    avancer()\navancer()\nouvrir()"
+  ],
+  "level3": [
+    "sauter_hauteur(4)\navancer()\nsauter_hauteur(3)\navancer()\navancer()\nfor _ in range(4):\n    message = lire_nombre()\n    avancer()\n    sauter_hauteur(message)\n    avancer()\n    avancer()\nouvrir()"
+  ],
+  "level4": [
+    "avancer()\nfor _ in range(5):\n    message = lire_chaine()\n    if message == \"gau\":\n        gauche()\n    else:\n        droite()\n    avancer()\n    avancer()\nouvrir()"
+  ],
+  "level5": [
+    "avancer()\nsauter_haut()\nfor _ in range(5):\n    hauteur = mesurer_hauteur()\n    if hauteur == 0:\n        avancer()\n    elif hauteur == 1:\n        sauter()\n    else:\n        sauter_haut()\n    avancer()\n    avancer()\nouvrir()"
+  ],
+  "level6": [
+    "for compteur in range(6):\n    sauter_hauteur(compteur)\n    avancer()\nouvrir()"
+  ],
+  "level7": [
+    "for compteur in range(2,9):\n    tirer(compteur)\n    tourner()\ntirer(3)"
+  ],
+  "level8": [
+    "avancer()\nobstacle = detecter_obstacle()\nwhile obstacle == True:\n    coup()\n    obstacle = detecter_obstacle()\nfor _ in range(3):\n    avancer()\ndroite()\nfor _ in range(5):\n    avancer()\nobstacle = detecter_obstacle()\nwhile obstacle == True:\n    coup()\n    avancer()\n    obstacle = detecter_obstacle()\nouvrir()"
+  ]
+}
+

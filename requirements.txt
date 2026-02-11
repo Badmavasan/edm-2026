@@ -1,0 +1,9 @@
+numpy
+graphviz
+pandas
+matplotlib
+scikit-learn==1.3.2
+torch
+tqdm
+pyBKT==1.4.1
+seaborn
